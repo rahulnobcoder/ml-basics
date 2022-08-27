@@ -29,7 +29,7 @@ a=np.linspace(min_x,min_x,len(x))
 b=b0+b1*x
 plt.plot(a,b,color='#58b970', label='Regression Line')
 plt.scatter(x,y,c='#ef5423',label='Scatter Plot')
-plt.xlabel('salary')
+plt.xlabel('salary') 
 plt.ylabel('number')
 plt.legend()
 plt.show
