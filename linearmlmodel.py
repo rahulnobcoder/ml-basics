@@ -1,3 +1,7 @@
+#The total duration of the Python Script is approximately 2 minutes and 2 seconds, 
+#being roughly 1.22 seconds per loop. The Python code is 5.8 times faster than the @#R alternative!
+#The Python code for this particular Machine Learning Pipeline is therefore 5.8 times faster than the R alternative!
+
 %matplotlib inline
 import numpy as np
 import pandas as p
