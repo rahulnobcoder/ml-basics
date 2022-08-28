@@ -47,3 +47,13 @@ r2=1-(ss_r/ss_t)
 print("r2 is ")
 print(r2)
   #r2 is r squared  
+
+#this is calculating rsquare uisng sklearn
+#from sklearn.linear_model import LinearRegression
+#from sklearn.metrics import mean_squared_error
+#x=x.reshape((m,1))
+#reg=LinearRegression()
+#reg = reg.fit(x,y)
+#y_pred = reg.predict(x)
+#r2_score=reg.score(x,y)
+#print(r2_score)
