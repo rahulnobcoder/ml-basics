@@ -1,0 +1,58 @@
+w3c = world wide web consortium
+
+
+
+/* type selectors 
+.for class
+normal to normal tags
+#for ids
+
+
+attribute selectors
+anchor tag = 
+
+a[....]{
+    propertu:value
+}
+pseudo class
+
+selector:pseudo class {
+    property:value
+}
+pseudo element selctor
+
+
+p:: first-line{
+    color brown
+
+}
+combinator selector
+
+article > tag {
+}
+universal selectors
+*{
+
+}
+
+*/end
+
+
+
+
+
+for same test size(0.6) decision tree and logistic regre 5 cases accuracy(with same datasets)
+suv_data.csv
+logistic regression
+1.  0.8416
+2.  0.8541
+3.  0.8791
+4.  0.8583
+5.  0.8250
+
+decision tree
+1.  0.8333
+2.  0.8458
+3.  0.8833
+4.  0.8533
+5.  0.8875
